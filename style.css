@@ -1,0 +1,18 @@
+button {
+    width: 50px;
+    height: 50px;
+    margin: 2.5px 1px;
+}
+
+.result {
+    background-color: rgb(243, 243, 243);
+    width: 204px;
+    height: 50px;
+    border-style: solid;
+    font-size: 40px;
+    margin: 5px 0;
+    padding: 0 8px 0 0px;
+
+    display: flex;
+    justify-content: end;
+}
